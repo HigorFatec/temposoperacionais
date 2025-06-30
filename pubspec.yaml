@@ -1,0 +1,29 @@
+name: tempos_operacionais
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.14.0
+  easy_url_launcher: ^0.0.7
+  firebase_auth: ^4.16.0
+  firebase_core: ^2.24.2
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  intl: ^0.19.0
+  mask_text_input_formatter: ^2.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/

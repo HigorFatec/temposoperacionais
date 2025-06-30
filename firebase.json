@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "temposoperacionais",
+          "appId": "1:1082662964580:android:4d53ae67b57a428b143e71",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "temposoperacionais",
+          "configurations": {
+            "android": "1:1082662964580:android:4d53ae67b57a428b143e71",
+            "ios": "1:1082662964580:ios:6172157d6ebb2826143e71",
+            "macos": "1:1082662964580:ios:6172157d6ebb2826143e71",
+            "web": "1:1082662964580:web:5e87e76342f59fb4143e71"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

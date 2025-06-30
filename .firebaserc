@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "temposoperacionais": "temposoperacionais",
+    "default": "temposoperacionais"
+  },
+  "targets": {},
+  "etags": {}
+}
