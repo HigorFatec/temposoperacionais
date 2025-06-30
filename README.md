@@ -54,5 +54,5 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 📞 Contato
 Desenvolvido por Higor dos Santos Machado.
-Email: higor.05@hotmail.com
-LinkedIn: https://www.linkedin.com/in/higor-dos-santos-machado-9a269a139/
+- Email: higor.05@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/higor-dos-santos-machado-9a269a139/
