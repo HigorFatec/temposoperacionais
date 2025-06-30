@@ -40,17 +40,25 @@ ios/ - Configurações e código iOS
 
 README.md - Documentação do projeto
 
+---
+
 ## ⚙️ Configurações importantes
 Arquivos de configuração do Firebase (google-services.json, GoogleService-Info.plist) não estão versionados por questões de segurança.
 
 Para configurar o Firebase, crie seu próprio projeto no console do Firebase e adicione os arquivos manualmente.
 
+---
+
 ## 🤝 Contribuições
 Contribuições são bem-vindas!
 Para contribuir, faça um fork, crie uma branch, faça suas alterações e envie um pull request.
 
+---
+
 ## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+---
 
 ## 📞 Contato
 Desenvolvido por Higor dos Santos Machado.
